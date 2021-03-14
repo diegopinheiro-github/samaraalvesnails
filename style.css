@@ -15,6 +15,7 @@ header{
     overflow-x:hidden;
     position: relative;
     background-color: rgb(250, 230, 194);
+    object-fit: cover;
 }
 
 
